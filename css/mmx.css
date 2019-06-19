@@ -1,0 +1,86 @@
+body {
+
+	 background-image: url(backround.jpg);
+	 font-family: "Share Tech Mono", Inconsolata, monospace;
+}
+
+.nanz{
+	text-indent: 90px;
+}
+
+
+.dis{
+	text-indent: 100px;
+}
+
+.dos{
+	background: #00ffff;
+	color: black;
+	border: 1px solid;
+	padding: 10px 10px;
+}
+
+.link{
+	background: white;
+	color: black;
+	border: 1px solid;
+	padding: 10px 10px;
+	text-decoration: none;
+}
+
+.social{
+	text-align: center;
+}
+
+#nama{
+	padding-right: 30%;
+	background: white;
+	border: 1px solid;
+}
+
+#textarea{
+	padding-right: 39%
+}
+
+.con{
+	background: white;
+	border: 1px solid;
+	padding: 10px 10px;
+}
+
+#cp{
+	text-align: center;
+}
+
+.login{
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.kata{
+	text-decoration: none;
+}
+
+.lo{
+	padding-right: 50px;
+	border: 1px solid #40ff00;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#li{
+	text-align: center;
+}
+
+.avatar{
+	text-align: center;
+}
+
+.le{
+	background: #80ff00;
+	border: 2px solid #00ffff;
+	padding-right: 150px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+}

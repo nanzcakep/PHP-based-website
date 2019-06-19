@@ -1,0 +1,55 @@
+body {
+	background-color: #34495E;
+	font-family: "Share Tech Mono", Inconsolata, monospace;
+}
+
+.link {
+	background: #34495E; 
+	color: white;
+	border: 1px solid; 
+	padding: 10px 10px;
+	text-decoration: none;
+}
+
+.a {
+	text-align: center;
+	color: white;
+}
+
+.b {
+	text-align: center;
+
+}
+
+.c {
+	background: #34495E; 
+	color: white;
+	border: 1px solid; 
+	padding: 10px 10px;
+	text-decoration: none;
+}
+
+.d {
+    font-family: sans-serif;
+    color: white;
+    border-collapse: collapse;
+    width: 65%;
+    border: 1px solid #f2f5f7;
+    text-align: center;
+}
+ 
+.d tr th{
+    background: #35A9DB;
+    color: #fff;
+    font-weight: normal;
+}
+
+.e {
+
+	text-indent: 15%;
+	text-decoration: none;
+	color: white;
+}
+
+
+ 
